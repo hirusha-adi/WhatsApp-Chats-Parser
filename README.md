@@ -6,7 +6,7 @@ A Python-based utility to parse exported WhatsApp chat messages.
 
 The WhatsApp Chats Parser is a Python tool designed to parse and organize chat messages exported from WhatsApp. The tool aims to simplify the process of extracting data from exported chat logs and enables users to store this information in JSON or CSV format.
 
-This README.md was generated with the help of ChatGPT on `11/13/2023 - 02:40 PM`
+*This README.md was generated with the help of ChatGPT on `11/13/2023 - 02:40 PM`*
 
 ## Installation
 
@@ -46,5 +46,3 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
